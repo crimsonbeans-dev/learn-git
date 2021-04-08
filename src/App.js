@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const un_used_var = 0;
   return (
     <div className="App">
       <header className="App-header">
